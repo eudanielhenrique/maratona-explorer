@@ -1,12 +1,18 @@
 * {
     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
 }
 
 :root {
-    font-size: 62.5%; /* 1rem = 10px */
-    --nav-height: 7.2rem;
+
+  /* Color */
+  --black: #02020a;
+  --white: #fafafa;
+  --blue: #3485ff;
+  --button: blueviolet;
+  --bg: #fbfcff;
+  --ovelay: #040911;
+  --icons-details: #a5b0c1;
+
 }
 
 html {
@@ -14,27 +20,14 @@ html {
     scroll-behavior: smooth;
 }
 
-html,
 body {
-  width: 100%;
-  height: 100%;
+  background-color: var(--black);
+  color: var(--white);
+  text-align: center;
+  font-family: sans-serif; 
 }
 
-body,
-button,
-input,
-textarea {
-  /* Intervalo de Tamanho */
-  font-size: clamp(14px, 1.6rem, 2vw);
-  font-family: sans-serif;
 
-}
-
-body {
-    text-align: center;
-    background-color: black;
-  }
-  
 #container{
   margin-top: 100px;
   width: 80%;
@@ -43,15 +36,15 @@ body {
 }
 
 h1{
-    color: white;
-    margin-bottom: 1rem;
-    margin-top: 4rem;
+    color: var(--white);
+    margin-bottom: 10px;
+    margin-top: 40px;
     opacity: 0.9;
   }
 
 p{
-    color: white;
-    margin-bottom: 4rem;
+    color: var(--white);
+    margin-bottom: 40px;
     opacity: 0.7;
 }
 
@@ -60,26 +53,27 @@ button{
   display: block;
   width: 100%;
 
-  padding: 2rem;
-  font-size: 2rem;
-  border-radius: .5rem;
+  padding: 20px;
+  font-size: 20px;
+  border-radius: 4px;
 }
 
 input{
-  margin-bottom: 2rem;
-  border-radius: 0.8rem;
-  height: 5rem;
+  margin-bottom: 20px;
 }
 
 button{
-  background-color: blueviolet;
-
+  background-color: var(--button);
   border: none;
-  width: fit-content;
 
-  color: white;
-  font-size: 1.4rem;
+  color: var(--white);
+  font-size: 14px;
 
-  text-decoration: none;
-  transition: background 200ms;
+  transition: filter .2s;
+}
+
+/* pseudo-class :hover */
+button:hover {
+  filter: brightness(1.2);
+  cursor: pointer;
 }
