@@ -1,6 +1,13 @@
-# Maratona Explorer
 
-<img src="https://i.imgur.com/eqUyCFr.png" width="2000" align="center" />
+<h1 align="center">
+🔮Bola de Cristal<br>Maratona Explorer
+</h1>
+
+<h1 align="center">
+  <img src="https://i.imgur.com/eqUyCFr.png" width="2000"/>
+
+</h1>
+
 
 &nbsp;
 
