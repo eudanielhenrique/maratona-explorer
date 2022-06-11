@@ -1,6 +1,6 @@
 # Maratona Explorer
 
-<img src="" width="2000" align="center" />
+<img src="https://i.imgur.com/eqUyCFr.png" width="2000" align="center" />
 
 &nbsp;
 
