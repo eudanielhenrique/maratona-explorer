@@ -1,6 +1,6 @@
 
 <h1 align="center">
-🔮Bola de Cristal<br>Maratona Explorer
+Bola de Cristal 🔮<br>Maratona Explorer
 </h1>
 
 <h1 align="center">
