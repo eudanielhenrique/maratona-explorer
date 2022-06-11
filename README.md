@@ -5,7 +5,6 @@
 
 <h1 align="center">
   <img src="https://i.imgur.com/eqUyCFr.png" width="2000"/>
-
 </h1>
 
 
@@ -14,15 +13,17 @@
 ## 📚 Informações sobre o projeto
 
 &nbsp;
-
-## 💻 Funcionalidades do projeto
-
-
 ## 🛠️ Tecnologias/Ferramentas utilizadas
 
 * HTML
 * CSS
 * JavaScript
+
+## 💻 Demonstração do projeto
+
+<h1 align="center">
+  <img src="https://i.imgur.com/D7Wb1YG.gif" width="2000"/>
+</h1>
 
 &nbsp;
 
