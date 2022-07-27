@@ -22,7 +22,7 @@
 ## 💻 Demonstração do projeto
 
 <h1 align="center">
-  <img src="https://i.imgur.com/D7Wb1YG.gif" width="2000"/>
+  <img src="https://i.imgur.com/D7Wb1YG.gif" width="100%"/>
 </h1>
 
 &nbsp;
